@@ -2,7 +2,6 @@
 // AUTHOR: Sherwin T Zuniga Jr
 // FILENAME: Zuniga_Sherwin_Adventure.java
 // SPECIFICATION: Dungeon Crawler OOP Polymorphism - runs the game
-// FOR: CSE 205- assignment3 - Justin Selgrad
 // TIME SPENT: sheeeeesh
 ---------------------------------------*/
 
