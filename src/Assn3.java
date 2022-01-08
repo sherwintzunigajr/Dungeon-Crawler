@@ -2,7 +2,6 @@
 // AUTHOR: Sherwin T Zuniga Jr
 // FILENAME: Zuniga_Sherwin_Assn3.java
 // SPECIFICATION: Dungeon Crawler OOP Polymorphism - main()
-// FOR: CSE 205- assignment3 - Justin Selgrad
 // TIME SPENT: 600 minutes
 ---------------------------------------*/
 import java.util.Scanner;
