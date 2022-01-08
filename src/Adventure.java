@@ -2,7 +2,7 @@
 // AUTHOR: Sherwin T Zuniga Jr
 // FILENAME: Zuniga_Sherwin_Adventure.java
 // SPECIFICATION: Dungeon Crawler OOP Polymorphism - runs the game
-// TIME SPENT: sheeeeesh
+// TIME SPENT: too much
 ---------------------------------------*/
 
 import java.util.Arrays;
