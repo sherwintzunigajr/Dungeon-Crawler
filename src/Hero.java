@@ -2,7 +2,6 @@
 // AUTHOR: Sherwin T Zuniga Jr
 // FILENAME: Zuniga_Sherwin_Hero.java
 // SPECIFICATION: Dungeon Crawler OOP Polymorphism - Hero Abstract Class 
-// FOR: CSE 205- assignment3 - Justin Selgrad
 // TIME SPENT: 30 minutes
 ---------------------------------------*/
 
