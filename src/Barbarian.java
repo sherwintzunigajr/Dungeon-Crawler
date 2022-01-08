@@ -2,7 +2,6 @@
 // AUTHOR: Sherwin T Zuniga Jr
 // FILENAME: Zuniga_Sherwin_Barbarian.java
 // SPECIFICATION: Dungeon Crawler OOP Polymorphism - Hero Child
-// FOR: CSE 205- assignment3 - Justin Selgrad
 // TIME SPENT: 60 minutes
 ---------------------------------------*/
 
